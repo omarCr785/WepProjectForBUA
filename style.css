@@ -58,14 +58,9 @@ li{
   display:flex;
   justify-content:space-between;
   align-items:center;
-  padding:12px;
-  border:1px solid #eee;
+  padding:10px;
+  border:1px solid #9b9696;
   border-radius:12px;
-}
-
-.done{
-  text-decoration:line-through;
-  opacity:.6;
 }
 
 .actions{
